@@ -1,0 +1,27 @@
+body{
+    font-family: 'Alatsi', sans-serif;
+}
+header{
+    padding: 20px;
+    background:#F44336;
+}
+header .logo-label{
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+}
+section .add-book{
+    padding: 10px;
+    overflow: hidden;
+}
+.error, .success{
+    font-size: 15px;
+    padding: 10px;
+    color: white;
+}
+.error {
+    background:red;
+}
+.success{
+    background: green;
+}
